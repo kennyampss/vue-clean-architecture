@@ -1,4 +1,4 @@
-# vue-clean-architecture
+# Vuejs2 - Clean architecture based on Vuetify Framework.
 
 ## Project setup
 ```
